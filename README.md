@@ -27,23 +27,23 @@ Links two Telegram groups and relays messages between the two as if one single g
 5) Click Edit Commands
 6) Input the list below as one message and hit enter:
 
-help - Display information on how to use this bot.
-ca - Connect message feed from Group 1 to Socket A.
-cas - Check which group Socket A is connected to.
-cb - Connect message feed from Group 2 to Socket B.
-cbs - Check which group Socket B is connected to.
-sr - Start message relay between plugged Channels A & B
-cr - Cut message relay between plugged Channels A & B
-rs - Check if the relay is on or off
+help - Display information on how to use this bot.  
+ca - Connect message feed from Group 1 to Socket A.  
+cas - Check which group Socket A is connected to.  
+cb - Connect message feed from Group 2 to Socket B.  
+cbs - Check which group Socket B is connected to.  
+sr - Start message relay between plugged Channels A & B  
+cr - Cut message relay between plugged Channels A & B  
+rs - Check if the relay is on or off  
 
 **CHAT COMMANDS**
 
-/help - Display information on how to use this bot.
-/ca - Connect message feed from Group 1 to Socket A.
-/cas - Check which group Socket A is connected to.
-/cb - Connect message feed from Group 2 to Socket B.
-/cbs - Check which group Socket B is connected to.
-/sr - Start message relay between plugged Channels A & B
-/cr - Cut message relay between plugged Channels A & B
-/rs - Check if the relay is on or off
+/help - Display information on how to use this bot.  
+/ca - Connect message feed from Group 1 to Socket A.  
+/cas - Check which group Socket A is connected to.  
+/cb - Connect message feed from Group 2 to Socket B.  
+/cbs - Check which group Socket B is connected to.  
+/sr - Start message relay between plugged Channels A & B  
+/cr - Cut message relay between plugged Channels A & B  
+/rs - Check if the relay is on or off  
 
